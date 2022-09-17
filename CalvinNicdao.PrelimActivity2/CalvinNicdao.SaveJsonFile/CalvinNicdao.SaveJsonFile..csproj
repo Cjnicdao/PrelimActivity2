@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <RootNamespace>CalvinNicdao.SaveJsonFile_</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="C:\Users\user\Documents\CSM\CalvinNicdao\Calvin\CalvinNicdao.PrelimActivity2\Calvin.cshtml" Link="Calvin.cshtml" />
+  </ItemGroup>
+
+</Project>

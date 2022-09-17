@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\Documents\\CSM\\CalvinNicdao\\Calvin\\CalvinNicdao.PrelimActivity2\\CalvinNicdao.SaveJsonFile\\CalvinNicdao.SaveJsonFile..csproj",
+      "projectUniqueName": "C:\\Users\\user\\Documents\\CSM\\PrelimAct2\\CalvinNicdao.SaveJsonFile\\CalvinNicdao.SaveJsonFile..csproj",
       "projectName": "CalvinNicdao.SaveJsonFile.",
-      "projectPath": "C:\\Users\\user\\Documents\\CSM\\CalvinNicdao\\Calvin\\CalvinNicdao.PrelimActivity2\\CalvinNicdao.SaveJsonFile\\CalvinNicdao.SaveJsonFile..csproj",
+      "projectPath": "C:\\Users\\user\\Documents\\CSM\\PrelimAct2\\CalvinNicdao.SaveJsonFile\\CalvinNicdao.SaveJsonFile..csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\Documents\\CSM\\CalvinNicdao\\Calvin\\CalvinNicdao.PrelimActivity2\\CalvinNicdao.SaveJsonFile\\obj\\",
+      "outputPath": "C:\\Users\\user\\Documents\\CSM\\PrelimAct2\\CalvinNicdao.SaveJsonFile\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",

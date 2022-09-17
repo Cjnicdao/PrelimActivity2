@@ -1,0 +1,22 @@
+﻿@page
+@model CalvinNicdao.SaveJsonFile.Pages.StudentformModel
+@{
+
+}
+
+@Model.ViewModel?.FirstName
+<form method="Post">
+    <div class="form-group">
+        <label asp-for="ViewModel.FirstName"></label>
+        <input type="text" class="form-control" asp-for="ViewModel.FirstName" />
+        <small asp-for="ViewModel.FirstName" class="form-text text-muted">Please enter your first name.</small>
+    </div>
+
+     <div class="form-group">
+        <label asp-for="ViewModel.LastName"></label>
+        <input type="text" class="form-control" asp-for="ViewModel.LastName" />
+        <small asp-for="ViewModel.LastName" class="form-text text-muted">Please enter your Last name.</small>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Submit</button>
+</form>
